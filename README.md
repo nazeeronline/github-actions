@@ -1,4 +1,4 @@
-# github-actions
+# github-actions.
 The core code base for Docker's GitHub Actions (https://github.com/features/actions). This code is used to build the docker/github-actions image that provides the functionality used by the published Docker GitHub Action:
 
 * [Build and push Docker images action](https://github.com/docker/build-push-action)
